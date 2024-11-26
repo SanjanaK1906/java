@@ -1,0 +1,26 @@
+Q 1 Write a Java class Car with the following attributes: make, model, year, and color. Implement a constructor that initializes these attributes when an object of the Car class is created. Write a main method to create an instance of Car and display its attributes.
+Enhance the Car class from the previous question by adding a parameterized constructor that takes values for make, model, year, and color as arguments. Demonstrate the use of this constructor in the main method
+ 
+Q 2 Create a class named Book with the following attributes:
+è title (String): to store the title of the book.
+è author (String): to store the author of the book.
+è isbn (String): to store the ISBN number of the book.
+Implement a constructor to initialize these attributes.
+·         In the main method, create an array named library that can hold up to 5 Book objects.
+·         Initialize the library array with different Book objects. You can choose any books you like or create fictional ones.
+·         Write a method named displayLibrary that takes the library array as a parameter and displays the details of each book in the array.
+·         Write a method named searchBook that takes the library array and a book title as parameters. This method should search for the book with the given title in the library array and display its details if found. If the book is not found, it should print a message indicating that the book is not in the library.
+
+
+ 
+Q 3 Create a class named Student with the following attributes:
+1)      name (String): to store the name of the student.
+2)      id (int): to store the student ID.
+3)      grade (double): to store the grade of the student.
+Implement a constructor to initialize these attributes.
+ 
+è In the main method, create an array named studentArray that can hold up to 10 Student objects.
+è Initialize the studentArray array with different Student objects. You can use fictional student data for this.
+è Write a method named displayStudents that takes the studentArray array as a parameter and displays the details of each student in the array.
+
+è Write a method named sortStudents that takes the studentArray array as a parameter and sorts the array based on the grades of the students in ascending order. You can use any sorting algorithm of your choice (e.g., bubble sort )

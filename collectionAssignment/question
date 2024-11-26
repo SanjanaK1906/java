@@ -1,0 +1,14 @@
+class Student 
+  Rollno , name and marks 
+- constructor  |getter Setter
+ 
+ 
+--> create MyRollnoComparator  and override compare method
+ 
+ 
+craete mainclass
+{
+ 
+ 
+   create 5 objects of student class 
+   store them in TreeSet  
