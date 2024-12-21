@@ -1,0 +1,48 @@
+Welcome to the world of Java! In this challenge, we practice printing to stdout.
+
+The code stubs in your editor declare a Solution class and a main method. Complete the main method by copying the two lines of code below and pasting them inside the body of your main method.
+
+System.out.println("Hello, World.");
+System.out.println("Hello, Java.");
+Input Format
+
+There is no input for this challenge.
+
+Output Format
+
+You must print two lines of output:
+
+Print Hello, World. on the first line.
+Print Hello, Java. on the second line.
+Sample Output
+
+Hello, World.
+Hello, Java.
+Language
+Java 7
+More
+12347568
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */
+        System.out.println("Hello, World.");
+        System.out.println("Hello, Java.");
+    }
+}
+Line: 1 Col: 1
+
+Test against custom input
+Java
+You have earned 3.00 points!
+You are now 22 points away from the 1st star for your java badge.
+12%3/25
+Congratulations
+You solved this challenge. Would you like to challenge your friends?Share on FacebookShare on TwitterShare on LinkedIn
+
+Test case 0
+Compiler Message
+Success
+Expected Output
+Hello, World.
+Hello, Java.
