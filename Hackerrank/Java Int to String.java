@@ -1,11 +1,11 @@
-Sample Input 0
+/*Sample Input 0
 
 100
 Sample Output 0
 
 Good job
 ------------------------------------
-
+*/
 import java.io.*;
 import java.util.*;
 
