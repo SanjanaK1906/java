@@ -1,4 +1,4 @@
-Sample Input
+/*Sample Input
 
 2
 Sample Output
@@ -15,7 +15,7 @@ Sample Output
 2 x 10 = 20
 
 ------------------------------------------------------------
-
+*/
 import java.io.*;
 import java.math.*;
 import java.security.*;
