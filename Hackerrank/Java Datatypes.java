@@ -1,4 +1,4 @@
-Sample Input
+/*Sample Input
 
 5
 -150
@@ -24,6 +24,7 @@ Sample Output
 
 
 --------------------------------------------------------------------------
+*/
 
 import java.util.*;
 import java.io.*;
