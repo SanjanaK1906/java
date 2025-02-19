@@ -1,4 +1,4 @@
-Sample Input
+/*Sample Input
 
 Hello world
 I am a file
@@ -10,7 +10,7 @@ Sample Output
 3 Read me until end-of-file.
 
 ---------------------------------------
-
+*/
 import java.io.*;
 import java.util.*;
 import java.text.*;
